@@ -1,0 +1,22 @@
+{
+  "name": "signin-with-facebook-mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/58160187/signin-with-facebook-mock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/58160187/signin-with-facebook-mock/issues"
+  },
+  "homepage": "https://github.com/58160187/signin-with-facebook-mock#readme",
+  "devDependencies": {
+    "jest": "^21.1.0"
+  }
+}
