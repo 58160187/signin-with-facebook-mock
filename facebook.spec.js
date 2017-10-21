@@ -10,7 +10,7 @@ function Auth(authService) {
 test('mock with 1 should return 1', () => {
     const mockFn = jest.fn(1)
         .mockReturnValue(1)
-        
+
     expect(mockFn(1)).toBe(1)
     expect(mockFn).toBeCalledWith(1)
 })
